@@ -85,4 +85,6 @@ Using Tailwind requires that a bit more thought goes into your HTML as the CSS w
     <img src="https://i.postimg.cc/MKHwVGVH/Screenshot-2022-10-30-at-21-30-36.png" alt="login page" width="50%"/>
     </p>
 
-5.  **Extra**: Try to make the page responsive
+5.  **Extra**: Try to make the image 1/2 of the screen when the screen is smaller than 1280px.
+
+6.  **Extra**: Try to hide the image when the screen size is smaller than 1024px.
