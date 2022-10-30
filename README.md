@@ -55,14 +55,18 @@ Using Tailwind requires that a bit more thought goes into your HTML as the CSS w
 2.  Create a [`<section>`](https://htmlreference.io/element/section/) element and give it a class `flex`. Center the items and align them in a row. Set the sections height to 100%.
 
     <details><summary>Hint #1</summary>
-    1. 
+
     - To align the items in a row use: [flex-direction](https://tailwindcss.com/docs/flex-direction) property.
+
     </details>
 
 3.  Create a `<div>` element and use `h-screen` to make an element img the entire height of the viewport. The width should be 2/3 of the scrren. Add a `<img>` tag inside. Use [this](https://images.unsplash.com/photo-1444313431167-e7921088a9d3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1441&q=100) link to specify the path to the image. Use `object-cover` property and make the width and the height to 100%. The result should be as shown in the image below.
 
     <details><summary>Hint #2</summary>
-    1. - For the div use: `w-full`, `w-2/3` and `h-screen` properties. 2. - For the img use: `w-full`, `h-full` and `object-cover` properties.
+
+    - For the div use: `w-full`, `w-2/3` and `h-screen` properties.
+    - For the img use: `w-full`, `h-full` and `object-cover` properties.
+
     </details>
 
     <p align="center">
