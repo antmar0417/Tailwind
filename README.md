@@ -70,11 +70,17 @@ Using Tailwind requires that a bit more thought goes into your HTML as the CSS w
     </details>
 
     <p align="center">
-    <img src="https://i.postimg.cc/hG0nBQVD/plane1.png" alt="Airplane" width="50%" style="border-radius:50%"/>
+    <img src="https://i.postimg.cc/hG0nBQVD/plane1.png" alt="Airplane" width="50%"/>
     </p>
 
-4.  Continue working on the HTML document from the previous exercise. Now try to create a login form to the right of the airplane photo. Se the image below.
+4.  Continue working on the HTML document from the previous exercise. Now try to create a login form to the right of the airplane photo. See the image below. You will need an SVG image to complete this exercise placed in `resources/icons/google.svg`.
+
+    <details><summary>Hint #3</summary>
+
+    - Use two nested `<div>` elements and place your form inside.
+
+    </details>
 
     <p align="center">
-    <img src="https://i.postimg.cc/MKHwVGVH/Screenshot-2022-10-30-at-21-30-36.png" alt="login page" width="50%" style="border-radius:50%"/>
+    <img src="https://i.postimg.cc/MKHwVGVH/Screenshot-2022-10-30-at-21-30-36.png" alt="login page" width="50%"/>
     </p>
