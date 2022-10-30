@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/l1KtXmfi3EnjM5zpK/giphy.gif" alt="Simpson Airplane gif" width="100%"/>
+<img src="https://media.giphy.com/media/3ohfFxoiP6rbEZ4nrG/giphy.gif" alt="Simpson Airplane gif" width="100%"/>
 
 # 07 - Tailwind
 
