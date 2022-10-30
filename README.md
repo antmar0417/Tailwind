@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/3ohfFxoiP6rbEZ4nrG/giphy.gif" alt="Simpson Airplane gif" width="100%"/>
+<img src="https://media.giphy.com/media/3ohfFxoiP6rbEZ4nrG/giphy.gif" alt="Mario gif" width="100%"/>
 
 # 07 - Tailwind
 
@@ -61,4 +61,4 @@ Using Tailwind requires that a bit more thought goes into your HTML as the CSS w
     <details><summary>Hint #2</summary> 1. - For the div use: `w-full`, `w-2/3` and `h-screen` properties. 2. - For the img use: `w-full`, `h-full` and `object-cover` properties.
     </details>
     The result should be as the image below:
-    <img src="https://postimg.cc/5HjT50PT" alt="Simpson Airplane gif" width="50%"/>
+    <img src="https://i.postimg.cc/hG0nBQVD/plane1.png" alt="Airplane" width="50%"/>
