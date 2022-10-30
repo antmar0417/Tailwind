@@ -60,7 +60,7 @@ Using Tailwind requires that a bit more thought goes into your HTML as the CSS w
 
     </details>
 
-3.  Create a `<div>` element and use `h-screen` to make an element img the entire height of the viewport. The width should be 2/3 of the scrren. Add a `<img>` tag inside. Use [this](https://images.unsplash.com/photo-1444313431167-e7921088a9d3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1441&q=100) link to specify the path to the image. Use `object-cover` property and make the width and the height to 100%. The result should be as shown in the image below.
+3.  Create a `<div>` element and use `h-screen` to make an element img the entire height of the viewport. The width should be 2/3 of the scrren. Add a `<img>` tag inside and give it `object-cover` property. Make the width and the height to 100% and use [this](https://images.unsplash.com/photo-1444313431167-e7921088a9d3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1441&q=100) link to specify the path to the image. The result should be as shown in the image below.
 
     <details><summary>Hint #2</summary>
 
