@@ -1,4 +1,4 @@
-<img src="https://giphy.com/gifs/nintendo-mario-switch-3ohfFxoiP6rbEZ4nrG" alt="Simpson Airplane gif" width="100%"/>
+<img src="https://giphy.com/gifs/nintendo-mario-switch-3ohfFxoiP6rbEZ4nrG/giphy.gif" alt="Simpson Airplane gif" width="100%"/>
 
 # 07 - Tailwind
 
