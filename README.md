@@ -84,3 +84,5 @@ Using Tailwind requires that a bit more thought goes into your HTML as the CSS w
     <p align="center">
     <img src="https://i.postimg.cc/MKHwVGVH/Screenshot-2022-10-30-at-21-30-36.png" alt="login page" width="50%"/>
     </p>
+
+5.  **Extra**: Try to make the page responsive
