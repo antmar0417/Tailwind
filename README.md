@@ -87,4 +87,6 @@ Using Tailwind requires that a bit more thought goes into your HTML as the CSS w
 
 5.  **Extra**: Try to make the image 1/2 of the screen if the screen is smaller than 1280px.
 
-6.  **Extra**: Try to hide the image when the screen size is smaller than 1024px.
+6.  **Extra**: Hide the image when the screen size is smaller than 1024px.
+
+7.  **Extra**: Try to convert your project or whatever project you want from CSS to Tailwind. I recommend picking one of your earlier school projects.
