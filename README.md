@@ -77,7 +77,7 @@ Using Tailwind requires that a bit more thought goes into your HTML as the CSS w
 
     <details><summary>Hint #3</summary>
 
-    - Create two nested `<div>` elements and place your form inside.
+    - Create two nested `<div>` elements after your first `<div>` element and place your form inside.
 
     </details>
 
